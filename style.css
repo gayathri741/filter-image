@@ -1,0 +1,20 @@
+body{
+  background-color: #c0ccee;
+  font-family: 'Gill Sans';
+}
+canvas{
+  width:800px;
+  height: 500px;
+  border: 1px  solid #031d35;
+  display: block;
+  margin: auto;
+  background-color: white;
+}
+h1{
+  text-align: center;
+  
+}
+.button{
+  text-align:center;
+  padding-top:30px;
+}
